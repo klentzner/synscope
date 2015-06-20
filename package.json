@@ -1,0 +1,22 @@
+{
+  "name": "synscope",
+  "version": "0.0.1",
+  "description": "Miles to go",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klentzner/synscope.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "KeithL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klentzner/synscope/issues"
+  },
+  "homepage": "https://github.com/klentzner/synscope#readme"
+}
